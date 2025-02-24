@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@ankitjais_19 on instagram
+- 📫 How to reach me ...@ankitjais_19 on  instagram
 - 😄 Pronouns: Tech guy
 - ⚡ Fun fact: I Love Coding..
 
