@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some Internships.
 - 📫 How to reach me ...@ankitjais_19 on  instagram
 - 😄 Pronouns: Tech guy
-- ⚡ Fun fact: I Love Coding..
+- ⚡ Fun fact: I Love Coding and Solving Problems 
 
 <!---
 ankitjaiswal2407/ankitjaiswal2407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
