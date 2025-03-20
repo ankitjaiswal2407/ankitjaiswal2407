@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on some Internships.
 - 📫 How to reach me @ankitjais_19 on  instagram and LinkedIn.
-- 😄 Pronouns: Tech guy
+- 😄 Pronouns: Tech boy
 - ⚡ Fun fact: I Love Coding and Solving Problems 
 
 <!---
