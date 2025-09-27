@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ankit Jaiswal
-- 👀 I’m interested in Coding and Solving Problems
+- 👋 Hi, I’m Ankit Jaiswal.
+- 👀 I’m interested in Coding & Solving Problems  
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on some Internships.
 - 📫 How to reach me @ankitjais_19 on  instagram and LinkedIn.
