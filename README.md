@@ -11,7 +11,7 @@
 ---
 
 <p align="left">
-  - 🚀 I'm a **Front End Developer** building **responsive** and **performant** web applications. <br/>
+  - 🚀 I'm a **Front End Developer** building  **responsive** and **performant** web applications. <br/>
   - 💡 Currently focused on modern **Node.js** backends, **React** frontends, and **MongoDB** for persistent data storage. <br/>
   - 💻 Passionate about **developer experience tools**, **clean architecture**. <br/>
   - 📫 How to reach me: <a href="mailto:aj8377260@gmail.com"><b>aj8377260@gmail.com</b></a> <br/>
